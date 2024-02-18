@@ -1,5 +1,5 @@
 # dice_challenge
 
 uncomplete dice game project
-still working on it
+still not working
 learning JavaScript 
