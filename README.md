@@ -2,7 +2,6 @@
 
 uncomplete dice game project
 still not working
-learning JavaScript 
-and php 
+learning JavaScript
 jquery
 php
