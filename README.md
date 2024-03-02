@@ -6,3 +6,4 @@ learning JavaScript
 jquery
 php
 devops 
+cloud 
