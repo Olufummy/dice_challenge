@@ -2,7 +2,7 @@
 
 pure javaScript
 uncomplete dice game project
-still not working
+still not working on the main
 learning JavaScript
 php
 devops 
