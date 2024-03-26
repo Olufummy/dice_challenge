@@ -6,4 +6,3 @@ still not working on the main
 learning JavaScript
 php
 devops 
-cloud engineering 
